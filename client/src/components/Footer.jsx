@@ -48,7 +48,7 @@ export const Footer = () => {
         </ul>
       </div>
       <div className="col-span-full sm:mt-6 text-xl logo-font">
-        &copy; 2024 LÖV. All rights reserved. Product images from Unsplash.
+        &copy; 2025 LÖV. All rights reserved. Product images from Unsplash.
       </div>
     </div>
   )
